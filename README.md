@@ -10,6 +10,7 @@ INSTALLATION:
 git clone https://github.com/your-username/pwnaudit.git
 cd pwnaudit
 pip install -r requirements.txt
+use the command python3 passpowrdaudit.py to run the tool
 
 
 USAGE
