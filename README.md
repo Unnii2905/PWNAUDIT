@@ -1,13 +1,10 @@
  PWNAUDIT
 
-PWNAUDIT is a powerful  tool that checks the strength of your passwords and verifies whether they’ve been exposed in known data breaches — using the HaveIBeenPwned API (no key required).
-
-
-FEATURE:
- Single password or bulk password audit
- Checks against  breached passwords
- Strength analysis (length, digits, symbols, etc.)
- Exports bulk results as CSV
+ Features
+- Single or bulk password audit
+- Checks against breached passwords (via HaveIBeenPwned)
+- Password strength analysis (length, digits, symbols, etc.)
+- Exports bulk results as CSV
 
 INSTALLATION:
 git clone https://github.com/your-username/pwnaudit.git
